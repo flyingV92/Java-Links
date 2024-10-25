@@ -15,4 +15,7 @@ Links for Java to properly write code.
  <a href="http://zseries.marist.edu/enterprisesystemseducation/assemblerlanguageresources/Assembler.V2.alntext%20V2.00.pdf">Assember Language Programming</a>
 
  <a href="https://docs.oracle.com/javase/tutorial/uiswing//index.html">The Java Tutorials</a>
+
+
+ <a href="https://courses.cs.washington.edu/courses/cse143/17su/eclipse_tutorial/tricks.shtml"> Eclipse Tips 'n Tricks</a>.
  
