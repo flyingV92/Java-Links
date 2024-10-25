@@ -19,3 +19,9 @@ Links for Java to properly write code.
 
  <a href="https://courses.cs.washington.edu/courses/cse143/17su/eclipse_tutorial/tricks.shtml"> Eclipse Tips 'n Tricks</a>.
  
+
+
+
+Later Learning
+
+<a href="https://shikaan.github.io/assembly/x86/guide/2024/09/08/x86-64-introduction-hello.html">Introduction to Assembly</a>.
