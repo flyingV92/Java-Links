@@ -1,6 +1,7 @@
 # Java-Links
 Links for Java to properly write code.
 
+<a href = "https://docs.oracle.com/javase/tutorial/">The Java Tutorials</a>.
 
  <a href="https://www.oracle.com/technetwork/java/codeconventions-150003.pdf">Java Coding Conventions</a>
 
